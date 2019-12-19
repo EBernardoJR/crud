@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Emanoel silva",
+      "email": "emanoelbernardocontato@outlook.com"
+    },
+    {
+      "name": "Emanoel Bernardo da Silva",
+      "email": "emanoel04091999@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Laudeny dos Santos Silva",
+      "email": "emanoel04091999@gmail.com",
+      "id": 5
+    }
+  ]
+}

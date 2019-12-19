@@ -1,0 +1,39 @@
+aside.nav {
+
+    background-color: var(--bg-dark);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+}
+aside.nav a{
+    margin: 0;
+    display: block;/*cada link em uma linha*/
+    text-decoration: none;
+    color: #FFF;
+    padding: 15px;
+    font-weight: 300;
+    width: 100vh;
+}
+
+aside.nav a:hover{
+    background: linear-gradient(135deg, #07a7e3 0%, #32dac3 100%);
+    font-size: 1.5em;
+}
+
+@media(max-width: 768px) {
+    .menu {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+    .menu a {
+        display: inline;
+        padding: 10px;
+        margin: 0px;
+    }
+
+    .menu {
+        height: 100%;
+        justify-content: space-around;
+    }
+}

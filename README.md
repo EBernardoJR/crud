@@ -5,8 +5,8 @@ this is a project made with ReactJS
 
 # Home Page
 
-![alt text](crud 1.png)
+![alt text](crud_1.png)
 
 # Users Page
 
-![alt text](crud 2.png)
+![alt text](crud_2.png)
